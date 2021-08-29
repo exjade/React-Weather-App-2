@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https://github.com/exjade/React-Weather-App-2/static/css/main.be193d89.chunk.css",
+    "main.js": "/https://github.com/exjade/React-Weather-App-2/static/js/main.c4fdd35d.chunk.js",
+    "main.js.map": "/https://github.com/exjade/React-Weather-App-2/static/js/main.c4fdd35d.chunk.js.map",
+    "runtime-main.js": "/https://github.com/exjade/React-Weather-App-2/static/js/runtime-main.9a9b74da.js",
+    "runtime-main.js.map": "/https://github.com/exjade/React-Weather-App-2/static/js/runtime-main.9a9b74da.js.map",
+    "static/js/2.f42f5b5d.chunk.js": "/https://github.com/exjade/React-Weather-App-2/static/js/2.f42f5b5d.chunk.js",
+    "static/js/2.f42f5b5d.chunk.js.map": "/https://github.com/exjade/React-Weather-App-2/static/js/2.f42f5b5d.chunk.js.map",
+    "index.html": "/https://github.com/exjade/React-Weather-App-2/index.html",
+    "static/css/main.be193d89.chunk.css.map": "/https://github.com/exjade/React-Weather-App-2/static/css/main.be193d89.chunk.css.map",
+    "static/js/2.f42f5b5d.chunk.js.LICENSE.txt": "/https://github.com/exjade/React-Weather-App-2/static/js/2.f42f5b5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a9b74da.js",
+    "static/js/2.f42f5b5d.chunk.js",
+    "static/css/main.be193d89.chunk.css",
+    "static/js/main.c4fdd35d.chunk.js"
+  ]
+}
